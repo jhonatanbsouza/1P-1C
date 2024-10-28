@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+p{
+    color: blueviolet;
+    /* *muda a cor do TEXTO */
+    background-color: bisque;
+    /* *muda a cor do FUNDO*/
+}
+h1{
+    text-align: center;
+}
