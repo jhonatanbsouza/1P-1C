@@ -46,3 +46,23 @@ a{
 
 /* * Lembrete -> Para selecionarmos uma CLASSE
 * para alterar, começamos com ponto final. */
+
+a:hover{
+    color: aquamarine ;
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+header:hover{
+    opacity: 0.9;
+}
+
+/* Atribuir as seguintes estilizações:
+    - Quando passar o mouse sobre o vídeo, ele fica mais opaco.
+    Para isso, use o atributo opacity (onde 1 é 100% e 0 é 0%).
+
+*/
+
+iframe:hover{
+    opacity: 0.5;
+}
